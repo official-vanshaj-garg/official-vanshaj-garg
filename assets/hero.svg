@@ -1,0 +1,65 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.45" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E1B4B"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="160" y1="40" x2="1040" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="26" fill="url(#bg)"/>
+
+  <g opacity="0.18">
+    <path d="M0 240 C220 170 370 300 580 215 C780 135 945 190 1200 110" stroke="#38BDF8" stroke-width="2"/>
+    <path d="M0 270 C250 210 410 320 620 245 C830 165 960 225 1200 150" stroke="#A78BFA" stroke-width="2"/>
+  </g>
+
+  <g opacity="0.14">
+    <circle cx="1040" cy="70" r="110" fill="#38BDF8"/>
+    <circle cx="170" cy="240" r="120" fill="#8B5CF6"/>
+  </g>
+
+  <g opacity="0.22">
+    <path d="M80 70H1120" stroke="#334155"/>
+    <path d="M80 120H1120" stroke="#334155"/>
+    <path d="M80 170H1120" stroke="#334155"/>
+    <path d="M80 220H1120" stroke="#334155"/>
+  </g>
+
+  <text x="80" y="92" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="22" letter-spacing="4">
+    SOFTWARE ENGINEERING · APPLIED AI · BACKEND SYSTEMS
+  </text>
+
+  <text x="80" y="165" fill="url(#accent)" font-family="Segoe UI, Arial, sans-serif" font-size="68" font-weight="800" filter="url(#glow)">
+    Vanshaj
+  </text>
+
+  <text x="84" y="215" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">
+    Building production-style APIs, automation systems, dashboards, and applied AI tools.
+  </text>
+
+  <g transform="translate(84,240)">
+    <rect x="0" y="0" width="178" height="34" rx="17" fill="#0F172A" stroke="#38BDF8"/>
+    <text x="19" y="23" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">SDE INTERN</text>
+
+    <rect x="198" y="0" width="205" height="34" rx="17" fill="#0F172A" stroke="#818CF8"/>
+    <text x="217" y="23" fill="#C7D2FE" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">AI/ML UNDERGRAD</text>
+
+    <rect x="423" y="0" width="235" height="34" rx="17" fill="#0F172A" stroke="#C084FC"/>
+    <text x="442" y="23" fill="#E9D5FF" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">BACKEND + APPLIED AI</text>
+  </g>
+</svg>
