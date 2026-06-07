@@ -1,5 +1,20 @@
+<div align="center">
+
+# Vanshaj
+
+**SDE Intern · AI/ML Undergraduate · Backend + Applied AI Builder**
+
+<samp>
+Building backend systems, applied AI workflows, automation tools, and production-style project demos.
+</samp>
+
+<br/>
+<br/>
+
 <p align="center">
-  <img src="./assets/hero.svg" alt="Vanshaj - Software Engineering and Applied AI" />
+  <img src="https://img.shields.io/badge/Backend_Systems-111827?style=flat-square&logo=serverless&logoColor=38BDF8" alt="Backend Systems" />
+  <img src="https://img.shields.io/badge/Applied_AI-111827?style=flat-square&logo=openai&logoColor=A78BFA" alt="Applied AI" />
+  <img src="https://img.shields.io/badge/API_Workflows-111827?style=flat-square&logo=fastapi&logoColor=22C55E" alt="API Workflows" />
 </p>
 
 <p align="center">
@@ -12,9 +27,9 @@
   </a>
 </p>
 
-<p align="center">
-  <b>Building backend systems, applied AI workflows, automation tools, and production-style project demos.</b>
-</p>
+</div>
+
+---
 
 ---
 
