@@ -13,7 +13,7 @@
 
 ---
 
-## About Me
+## <img src="https://img.shields.io/badge/About_Me-0F172A?style=for-the-badge&logo=readme&logoColor=38BDF8" />
 
 I am a Computer Science undergraduate specializing in AI/ML, currently working as an SDE Intern.  
 I like building practical software systems that connect backend engineering, automation, and applied AI.
