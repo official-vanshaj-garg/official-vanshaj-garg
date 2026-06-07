@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:8B5CF6&height=180&section=header&text=Vanshaj&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDE%20Intern%20%C2%B7%20AI%2FML%20Undergraduate%20%C2%B7%20Backend%20%2B%20Applied%20AI%20Builder&descAlignY=60&descSize=15" />
+</p>
+
 <h1 align="center">Hi, I'm Vanshaj</h1>
 
 <p align="center">
@@ -33,6 +37,16 @@ My work is focused around:
 
 ---
 
+## Proof of Work
+
+- Currently working as an **SDE Intern**, building applied AI and software components for enterprise workflows.
+- Built backend/API-driven projects using **Python, FastAPI, Node.js, PostgreSQL, MongoDB, SQLAlchemy, and REST APIs**.
+- Created applied AI projects around **intent classification, LLM workflows, scam intelligence, automation, and real-world dashboards**.
+- **Top 2% National Finalist** at India AI Impact Buildathon for NIRIKSHA.ai, selected from 40,000+ participants.
+- President of **E-Cell, RV University**, leading entrepreneurship and student-builder initiatives.
+
+---
+
 ## Featured Projects
 
 | Project | What it does | Tech |
@@ -41,6 +55,18 @@ My work is focused around:
 | **ScrumPilot** | AI-powered Scrum automation assistant for Jira and Telegram workflows | Python, PostgreSQL, SQLAlchemy, Jira API |
 | **NIRIKSHA.ai** | AI-powered scam intelligence honeypot for extracting threat artifacts | FastAPI, SQLModel, JavaScript, Groq |
 | **KiranaWala** | Grocery management platform connecting local store owners and customers | Node.js, Express.js, MongoDB, JWT |
+
+---
+
+## Engineering Direction
+
+I am currently focused on becoming stronger in:
+
+- Backend engineering and API design
+- Data structures, algorithms, and system design fundamentals
+- Applied AI systems that are useful beyond demos
+- Production-readiness: testing, documentation, deployment, and clean architecture
+- Building projects that are easy for others to understand, run, and evaluate
 
 ---
 
@@ -82,6 +108,10 @@ My work is focused around:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=official-vanshaj-garg&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=official-vanshaj-garg&theme=github-compact&hide_border=true" />
 </p>
 
 ---
