@@ -4,10 +4,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vanshajgargg/">
-    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+    <img src="https://img.shields.io/badge/LinkedIn-vanshajgargg-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/official-vanshaj-garg">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=ffffff" />
+  &nbsp;&nbsp;
+  <a href="mailto:official.vanshaj.garg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-official.vanshaj.garg%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -17,7 +18,7 @@
 
 ---
 
-### ⚡ About Me
+### About Me
 
 I am a Computer Science undergraduate specializing in AI/ML, currently working as an SDE Intern.  
 I like building practical software systems that connect backend engineering, automation, and applied AI.
@@ -31,7 +32,7 @@ My work is focused around:
 
 ---
 
-### 🧩 Proof of Work
+### Proof of Work
 
 - Currently working as an **SDE Intern**, building applied AI and software components for enterprise workflows.
 - Built backend/API-driven projects using **Python, FastAPI, Node.js, PostgreSQL, MongoDB, SQLAlchemy, and REST APIs**.
@@ -41,7 +42,7 @@ My work is focused around:
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
@@ -104,13 +105,13 @@ Grocery management platform connecting local store owners and customers through 
 
 ---
 
-### 🧠 Engineering Mindset
+### Engineering Mindset
 
 I care about building software that is not just demo-ready, but also understandable, testable, documented, and useful in real workflows.
 
 ---
 
-### 🎯 Current Focus
+### Current Focus
 
 - Strengthening backend development and system design fundamentals
 - Building polished AI + software engineering projects
@@ -119,7 +120,7 @@ I care about building software that is not just demo-ready, but also understanda
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=official-vanshaj-garg&show_icons=true&theme=github_dark&hide_border=true" />
