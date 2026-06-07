@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:8B5CF6&height=180&section=header&text=Vanshaj&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDE%20Intern%20%C2%B7%20AI%2FML%20Undergraduate%20%C2%B7%20Backend%20%2B%20Applied%20AI%20Builder&descAlignY=60&descSize=15" />
+  <img src="./assets/hero.svg" alt="Vanshaj - Software Engineering and Applied AI" />
 </p>
 
 <p align="center">
