@@ -1,65 +1,152 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#020617"/>
-      <stop offset="0.45" stop-color="#0F172A"/>
-      <stop offset="1" stop-color="#1E1B4B"/>
-    </linearGradient>
+<p align="center">
+  <img src="./assets/hero.svg" alt="Vanshaj - Software Engineering and Applied AI" />
+</p>
 
-    <linearGradient id="accent" x1="160" y1="40" x2="1040" y2="260" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#38BDF8"/>
-      <stop offset="0.5" stop-color="#818CF8"/>
-      <stop offset="1" stop-color="#C084FC"/>
-    </linearGradient>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vanshajgargg/">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+  </a>
+  <a href="https://github.com/official-vanshaj-garg">
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=ffffff" />
+  </a>
+</p>
 
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
+<p align="center">
+  <b>Building backend systems, applied AI workflows, automation tools, and production-style project demos.</b>
+</p>
 
-  <rect width="1200" height="300" rx="26" fill="url(#bg)"/>
+---
 
-  <g opacity="0.18">
-    <path d="M0 240 C220 170 370 300 580 215 C780 135 945 190 1200 110" stroke="#38BDF8" stroke-width="2"/>
-    <path d="M0 270 C250 210 410 320 620 245 C830 165 960 225 1200 150" stroke="#A78BFA" stroke-width="2"/>
-  </g>
+### ⚡ About Me
 
-  <g opacity="0.14">
-    <circle cx="1040" cy="70" r="110" fill="#38BDF8"/>
-    <circle cx="170" cy="240" r="120" fill="#8B5CF6"/>
-  </g>
+I am a Computer Science undergraduate specializing in AI/ML, currently working as an SDE Intern.  
+I like building practical software systems that connect backend engineering, automation, and applied AI.
 
-  <g opacity="0.22">
-    <path d="M80 70H1120" stroke="#334155"/>
-    <path d="M80 120H1120" stroke="#334155"/>
-    <path d="M80 170H1120" stroke="#334155"/>
-    <path d="M80 220H1120" stroke="#334155"/>
-  </g>
+My work is focused around:
 
-  <text x="80" y="92" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="22" letter-spacing="4">
-    SOFTWARE ENGINEERING · APPLIED AI · BACKEND SYSTEMS
-  </text>
+- Backend APIs and database-backed workflows
+- Applied AI/ML systems and LLM-based automation
+- Product-focused engineering for real-world use cases
+- Clean, documented projects that can be understood and run by others
 
-  <text x="80" y="165" fill="url(#accent)" font-family="Segoe UI, Arial, sans-serif" font-size="68" font-weight="800" filter="url(#glow)">
-    Vanshaj
-  </text>
+---
 
-  <text x="84" y="215" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">
-    Building production-style APIs, automation systems, dashboards, and applied AI tools.
-  </text>
+### 🧩 Proof of Work
 
-  <g transform="translate(84,240)">
-    <rect x="0" y="0" width="178" height="34" rx="17" fill="#0F172A" stroke="#38BDF8"/>
-    <text x="19" y="23" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">SDE INTERN</text>
+- Currently working as an **SDE Intern**, building applied AI and software components for enterprise workflows.
+- Built backend/API-driven projects using **Python, FastAPI, Node.js, PostgreSQL, MongoDB, SQLAlchemy, and REST APIs**.
+- Created applied AI projects around **intent classification, LLM workflows, scam intelligence, automation, and real-world dashboards**.
+- **Top 2% National Finalist** at India AI Impact Buildathon for **NIRIKSHA.ai**, selected from 40,000+ participants.
+- President of **E-Cell, RV University**, leading student-builder and entrepreneurship initiatives.
 
-    <rect x="198" y="0" width="205" height="34" rx="17" fill="#0F172A" stroke="#818CF8"/>
-    <text x="217" y="23" fill="#C7D2FE" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">AI/ML UNDERGRAD</text>
+---
 
-    <rect x="423" y="0" width="235" height="34" rx="17" fill="#0F172A" stroke="#C084FC"/>
-    <text x="442" y="23" fill="#E9D5FF" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">BACKEND + APPLIED AI</text>
-  </g>
-</svg>
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### [Trinetra.ai](https://github.com/official-vanshaj-garg/trinetra-ai)
+
+CCTV-to-events intelligence API with metrics, heatmap, funnel, anomalies, and reviewer dashboard.
+
+`FastAPI` `OpenCV` `Docker` `SQLite` `Computer Vision`
+
+</td>
+<td width="50%">
+
+#### [ScrumPilot](https://github.com/official-vanshaj-garg/scrumpilot)
+
+AI-powered Scrum automation assistant for Jira, Telegram, sprint planning, and meeting-to-task workflows.
+
+`Python` `PostgreSQL` `SQLAlchemy` `Jira API` `Telegram Bot API`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### [NIRIKSHA.ai](https://github.com/official-vanshaj-garg/niriksha-honeypot)
+
+AI-powered scam intelligence honeypot that extracts phishing URLs, UPI IDs, emails, phone numbers, and scam artifacts.
+
+`FastAPI` `SQLModel` `JavaScript` `Groq` `LLM Workflows`
+
+</td>
+<td width="50%">
+
+#### [KiranaWala](https://github.com/official-vanshaj-garg/kirana-wala)
+
+Grocery management platform connecting local store owners and customers through structured ordering workflows.
+
+`Node.js` `Express.js` `MongoDB` `JWT` `REST APIs`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,nodejs,express,fastapi,postgres,mongodb,git,github,docker,aws&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge&logo=fastapi&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/LLM_Workflows-0F172A?style=for-the-badge&logo=openai&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Applied_AI-0F172A?style=for-the-badge&logo=tensorflow&logoColor=F59E0B" />
+  <img src="https://img.shields.io/badge/Backend_Engineering-0F172A?style=for-the-badge&logo=serverless&logoColor=38BDF8" />
+</p>
+
+---
+
+### 🧠 Engineering Mindset
+
+I care about building software that is not just demo-ready, but also understandable, testable, documented, and useful in real workflows.
+
+---
+
+### 🎯 Current Focus
+
+- Strengthening backend development and system design fundamentals
+- Building polished AI + software engineering projects
+- Preparing for SDE, backend, and applied AI engineering opportunities
+- Improving project documentation, deployment, and production-readiness
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=official-vanshaj-garg&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=official-vanshaj-garg&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=official-vanshaj-garg&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/official-vanshaj-garg/official-vanshaj-garg/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/official-vanshaj-garg/official-vanshaj-garg/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/official-vanshaj-garg/official-vanshaj-garg/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my GitHub.</b>
+</p>
