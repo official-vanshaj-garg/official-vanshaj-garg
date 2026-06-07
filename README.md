@@ -2,20 +2,14 @@
 
 # Vanshaj
 
-**SDE Intern · AI/ML Undergraduate · Backend + Applied AI Builder**
+### Software Engineering Intern · AI/ML Undergraduate
 
 <samp>
-Building backend systems, applied AI workflows, automation tools, and production-style project demos.
+Problem-first builder turning real-world workflows into reliable software systems.
 </samp>
 
 <br/>
 <br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend_Systems-111827?style=flat-square&logo=serverless&logoColor=38BDF8" alt="Backend Systems" />
-  <img src="https://img.shields.io/badge/Applied_AI-111827?style=flat-square&logo=openai&logoColor=A78BFA" alt="Applied AI" />
-  <img src="https://img.shields.io/badge/API_Workflows-111827?style=flat-square&logo=fastapi&logoColor=22C55E" alt="API Workflows" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vanshajgargg/">
@@ -28,8 +22,6 @@ Building backend systems, applied AI workflows, automation tools, and production
 </p>
 
 </div>
-
----
 
 ---
 
