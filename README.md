@@ -1,72 +1,152 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Vanshaj Garg" />
+  <img src="./assets/hero.svg" alt="Vanshaj - Software Engineering and Applied AI" />
 </p>
-
-<h2 align="center">Vanshaj Garg</h2>
-<p align="center">SDE Intern &nbsp;·&nbsp; AI/ML Undergraduate &nbsp;·&nbsp; Problem-first Builder</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vanshajgargg/">
-    <img src="https://img.shields.io/badge/LinkedIn-vanshajgargg-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:official.vanshaj.garg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-official.vanshaj.garg%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/official-vanshaj-garg">
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
 </p>
 
-<br/>
-
-Final-year CS undergraduate at **RV University** (AI/ML), completing an AI Major from **IIT Ropar**.  
-Currently an **SDE Intern at Neutrinos**, building intent-classification components for an enterprise software platform.
-
-I start from the problem, not the stack. I like building things that work outside of demos.
+<p align="center">
+  <b>Building backend systems, applied AI workflows, automation tools, and production-style project demos.</b>
+</p>
 
 ---
 
-## Projects
+### ⚡ About Me
 
-| Project | What it solves | Stack |
-|---|---|---|
-| [**ScrumPilot**](https://github.com/official-vanshaj-garg/scrumpilot) | Parses meeting transcripts into structured Jira issues and sprint updates automatically | Python, PostgreSQL, Jira API, Telegram Bot API |
-| [**NIRIKSHA.ai**](https://github.com/official-vanshaj-garg/niriksha-honeypot) | Scam intelligence honeypot — keeps attackers engaged while extracting real threat artifacts | FastAPI, Groq Llama, SQLModel, JavaScript |
-| [**Trinetra.ai**](https://github.com/official-vanshaj-garg/trinetra-ai) | CCTV-to-intelligence API with event detection, heatmaps, funnels, and a live dashboard | FastAPI, OpenCV, Docker, SQLite |
-| [**KiranaWala**](https://github.com/official-vanshaj-garg/kirana-wala) | Grocery management platform connecting local kirana stores with nearby customers | Node.js, Express.js, MongoDB, JWT |
+I am a Computer Science undergraduate specializing in AI/ML, currently working as an SDE Intern.  
+I like building practical software systems that connect backend engineering, automation, and applied AI.
 
----
+My work is focused around:
 
-## Experience
-
-**SDE Intern · Neutrinos** &nbsp; `Feb 2026 – Present`  
-Building a multi-stage intent-classification pipeline — preprocessing, signal extraction, and confidence-band mapping — using LLMs and structured taxonomies for enterprise workflows.
-
-**Software Engineering Intern · Decodes** &nbsp; `Jun – Aug 2025`  
-Shipped a Slack Response Time Tracker with per-user analytics and SLA-style visibility. Automated 3 internal operational workflows. Stack: Slack API, OAuth 2.0, PostgreSQL, AWS EC2.
+- Backend APIs and database-backed workflows
+- Applied AI/ML systems and LLM-based automation
+- Product-focused engineering for real-world use cases
+- Clean, documented projects that can be understood and run by others
 
 ---
 
-## Recognition
+### 🧩 Proof of Work
 
-- **Top 2% National Finalist** — India AI Impact Buildathon &nbsp;·&nbsp; Selected from 40,000+ participants for NIRIKSHA.ai
-- **President, ECell RV University** — 700+ member community &nbsp;·&nbsp; Connected students to paid internship opportunities
+- Currently working as an **SDE Intern**, building applied AI and software components for enterprise workflows.
+- Built backend/API-driven projects using **Python, FastAPI, Node.js, PostgreSQL, MongoDB, SQLAlchemy, and REST APIs**.
+- Created applied AI projects around **intent classification, LLM workflows, scam intelligence, automation, and real-world dashboards**.
+- **Top 2% National Finalist** at India AI Impact Buildathon for **NIRIKSHA.ai**, selected from 40,000+ participants.
+- President of **E-Cell, RV University**, leading student-builder and entrepreneurship initiatives.
 
 ---
 
-## Stack
+### 🚀 Featured Projects
 
-```
-Languages    Python · C++ · JavaScript · SQL
-Backend      FastAPI · Node.js · Express.js · REST APIs
-Databases    PostgreSQL · MongoDB · SQLite · SQLAlchemy / Alembic
-AI / ML      LLM Workflows · Intent Classification · Applied ML
-Tools        Git · AWS EC2 · Docker · OAuth 2.0 · Slack API · Jira API
-```
+<table>
+<tr>
+<td width="50%">
+
+#### [Trinetra.ai](https://github.com/official-vanshaj-garg/trinetra-ai)
+
+CCTV-to-events intelligence API with metrics, heatmap, funnel, anomalies, and reviewer dashboard.
+
+`FastAPI` `OpenCV` `Docker` `SQLite` `Computer Vision`
+
+</td>
+<td width="50%">
+
+#### [ScrumPilot](https://github.com/official-vanshaj-garg/scrumpilot)
+
+AI-powered Scrum automation assistant for Jira, Telegram, sprint planning, and meeting-to-task workflows.
+
+`Python` `PostgreSQL` `SQLAlchemy` `Jira API` `Telegram Bot API`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### [NIRIKSHA.ai](https://github.com/official-vanshaj-garg/niriksha-honeypot)
+
+AI-powered scam intelligence honeypot that extracts phishing URLs, UPI IDs, emails, phone numbers, and scam artifacts.
+
+`FastAPI` `SQLModel` `JavaScript` `Groq` `LLM Workflows`
+
+</td>
+<td width="50%">
+
+#### [KiranaWala](https://github.com/official-vanshaj-garg/kirana-wala)
+
+Grocery management platform connecting local store owners and customers through structured ordering workflows.
+
+`Node.js` `Express.js` `MongoDB` `JWT` `REST APIs`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,nodejs,express,fastapi,postgres,mongodb,git,github,docker,aws&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge&logo=fastapi&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/LLM_Workflows-0F172A?style=for-the-badge&logo=openai&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Applied_AI-0F172A?style=for-the-badge&logo=tensorflow&logoColor=F59E0B" />
+  <img src="https://img.shields.io/badge/Backend_Engineering-0F172A?style=for-the-badge&logo=serverless&logoColor=38BDF8" />
+</p>
+
+---
+
+### 🧠 Engineering Mindset
+
+I care about building software that is not just demo-ready, but also understandable, testable, documented, and useful in real workflows.
+
+---
+
+### 🎯 Current Focus
+
+- Strengthening backend development and system design fundamentals
+- Building polished AI + software engineering projects
+- Preparing for SDE, backend, and applied AI engineering opportunities
+- Improving project documentation, deployment, and production-readiness
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=official-vanshaj-garg&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=official-vanshaj-garg&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=official-vanshaj-garg&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/official-vanshaj-garg/official-vanshaj-garg/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/official-vanshaj-garg/official-vanshaj-garg/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/official-vanshaj-garg/official-vanshaj-garg/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=official-vanshaj-garg&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github"
-    alt="GitHub Stats"
-  />
+  <b>Thanks for visiting my GitHub.</b>
 </p>
