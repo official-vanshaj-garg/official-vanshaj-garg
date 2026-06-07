@@ -85,7 +85,7 @@ AI-powered scam intelligence honeypot that extracts phishing URLs, UPI IDs, emai
 </td>
 <td width="50%">
 
-#### [KiranaWala](https://github.com/official-vanshaj-garg/kirana-wala)
+#### [KiranaWala](https://github.com/official-vanshaj-garg/KiranaWala)
 
 Grocery management platform connecting local store owners and customers through structured ordering workflows.
 
