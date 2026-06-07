@@ -2,16 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:8B5CF6&height=180&section=header&text=Vanshaj&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDE%20Intern%20%C2%B7%20AI%2FML%20Undergraduate%20%C2%B7%20Backend%20%2B%20Applied%20AI%20Builder&descAlignY=60&descSize=15" />
 </p>
 
-<h1 align="center">Hi, I'm Vanshaj</h1>
-
-<p align="center">
-  <b>SDE Intern · AI/ML Undergraduate · Backend + Applied AI Builder</b>
-</p>
-
-<p align="center">
-  Building production-style APIs, automation systems, dashboards, and applied AI tools.
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/vanshajgargg/">
     <img src="https://img.shields.io/badge/LinkedIn-Vanshaj-blue?style=for-the-badge&logo=linkedin" />
